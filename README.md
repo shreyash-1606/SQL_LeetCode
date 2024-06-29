@@ -18,6 +18,7 @@
 
 ![image](https://github.com/shreyash-1606/SQL_LeetCode/assets/105081450/5c593dbd-c995-404d-8e3c-152a2c5442b1)
 
+![image](https://github.com/shreyash-1606/SQL_LeetCode/assets/105081450/e4593694-2111-4a33-a9b0-cd5f07304835)
 
 
 
