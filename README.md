@@ -20,6 +20,22 @@
 
 ![image](https://github.com/shreyash-1606/SQL_LeetCode/assets/105081450/e4593694-2111-4a33-a9b0-cd5f07304835)
 
+![image](https://github.com/shreyash-1606/SQL_LeetCode/assets/105081450/75aa2c7b-3ead-4fd1-9510-248a9d887e4d)
+
+![image](https://github.com/shreyash-1606/SQL_LeetCode/assets/105081450/bb459fe1-c9ef-460e-90a5-cea8f4e11f5e)
+
+![image](https://github.com/shreyash-1606/SQL_LeetCode/assets/105081450/ef5a4993-32c5-4a54-b225-b7b01e0b2233)
+
+![image](https://github.com/shreyash-1606/SQL_LeetCode/assets/105081450/f74b518c-839c-484c-b1bc-2ddb27040051)
+
+
+
+
+
+
+
+
+
 
 
 
